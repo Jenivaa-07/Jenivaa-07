@@ -1,5 +1,12 @@
 <p align="center">
-  <img src="assets/typing-header.svg" width="100%" alt="Hi, I'm Jenivaa M | Motorsport Tech Profile Header" />
+  <img src="assets/f1-race-streak-banner.gif" width="100%" alt="Futuristic Motorsport Race Streak Banner" />
+</p>
+
+<h1 align="center">Hi, I'm Jenivaa M 👋</h1>
+<p align="center"><strong>AI Student • Full Stack Developer • Motorsport Tech Builder</strong></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=700&color=FF1744&center=true&vCenter=true&width=900&lines=Building+AI-powered+digital+experiences;Creating+PADDOX+%E2%80%94+Motorsport+Fan+Engagement+Platform;Full+Stack+%2B+AI%2FML+%2B+Data+Analytics;Driven+by+Speed%2C+Design%2C+and+Technology" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,22 +19,21 @@
 
 ## 🏁 ABOUT ME
 
-I am a Computer Science and Engineering student specializing in Artificial Intelligence. I enjoy building real-world projects that combine AI, full-stack development, data analytics, premium UI design, and motorsport technology.
-
-Currently, I am building **PADDOX**, a Formula 1-inspired digital fan engagement platform with race data, fan hub, ecommerce, admin dashboard, digital assets, and AI-powered personalization.
+* 🎓 CSE Artificial Intelligence student passionate about real-world tech projects
+* 💻 Interested in full-stack development, AI/ML, data analytics, and premium UI/UX
+* 🏎️ Currently building **PADDOX**, a motorsport-inspired fan engagement platform with AI-powered personalization
 
 ---
 
 ## 🧭 CURRENT FOCUS
 
-| Focus Area | Status |
+| Track | What I'm Building |
 | :--- | :--- |
-| **AI/ML Development** | Learning and building practical models |
-| **Full Stack Web Projects** | Building real-world web applications |
-| **Data Analytics** | Working with dashboards and insights |
-| **Motorsport Technology** | Creating PADDOX and race-inspired systems |
-| **UI/UX Interfaces** | Designing premium digital experiences |
-| **Final Year Project** | Developing AI-based fan engagement system |
+| **AI/ML** | Recommendation systems, prediction models, and analytics |
+| **Full Stack** | Real-world web apps with frontend, backend, database, and APIs |
+| **Data Analytics** | Dashboards, insights, CSV/Excel analysis, and visual reports |
+| **Motorsport Tech** | PADDOX and racing-inspired digital systems |
+| **UI/UX** | Premium dark interfaces, animations, and interactive experiences |
 
 <p align="center">
   <img src="assets/divider-race-line.svg" width="100%" alt="Race Line Divider" />
@@ -47,16 +53,17 @@ Currently, I am building **PADDOX**, a Formula 1-inspired digital fan engagement
 
 PADDOX is a premium motorsport fan platform that brings together race updates, driver statistics, fan engagement, ecommerce, digital assets, admin controls, and AI-based personalization into one interactive ecosystem.
 
-#### 🚀 Key Features
-* 📅 **Race Calendar:** Live race calendar and circuit information
-* 🏆 **Fan Hub:** Polls, quotes, leaderboard, trivia, and wallpapers
-* 🛒 **E-Commerce:** Motorsport ecommerce with cart, wishlist, coupons, checkout, and receipts
-* 📊 **Admin Controls:** Admin dashboard for products, orders, users, coupons, polls, and wallpapers
-* 🧠 **AI/ML Modules:** AI-based recommendation and predictive analytics modules
-* 🏎️ **Race Data:** Race data integration using motorsport APIs (OpenF1 API, Jolpica API)
+<p align="center">
+  <img src="assets/paddox-card.svg" width="85%" alt="PADDOX Project Card" />
+</p>
 
-#### 💻 Technology Stack
-`HTML` • `CSS` • `JavaScript` • `Node.js` • `Express.js` • `MongoDB` • `Cloudinary` • `OpenF1 API` • `Jolpica API` • `AI/ML`
+| Module | Features |
+| :--- | :--- |
+| **Race Intelligence** | Calendar, circuit info, live motorsport APIs |
+| **Fan Hub** | Polls, quotes, leaderboard, trivia, wallpapers |
+| **Shop** | Cart, wishlist, coupons, checkout, receipts |
+| **Admin** | Products, orders, users, coupons, polls, wallpapers |
+| **AI Layer** | Recommendations, prediction, fan analytics |
 
 <p align="center">
   <br />
@@ -70,14 +77,16 @@ PADDOX is a premium motorsport fan platform that brings together race updates, d
 </p>
 
 <p align="center">
-  <img src="assets/paddox-card.svg" width="85%" alt="PADDOX Project Card" />
-</p>
-
-<p align="center">
   <img src="assets/divider-race-line.svg" width="100%" alt="Race Line Divider" />
 </p>
 
 ## 📁 PROJECTS
+
+<p align="center">
+  <img src="assets/paddox-card.svg" width="32%" alt="PADDOX Card" />
+  <img src="assets/insightai-card.svg" width="32%" alt="InsightAI Card" />
+  <img src="assets/comingsoon-card.svg" width="32%" alt="Next Build Card" />
+</p>
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -93,24 +102,8 @@ PADDOX is a premium motorsport fan platform that brings together race updates, d
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jenivaa-07&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=ff1744&icon_color=ff1744&text_color=ffffff" height="165" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jenivaa-07&theme=radical&hide_border=true&background=000000&ring=ff1744&fire=ff1744&currStreakLabel=ffffff" height="165" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenivaa-07&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=ff1744&text_color=ffffff" height="165" alt="Top Languages Stats" />
 </p>
-
----
-
-## 🏆 GITHUB TROPHIES
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jenivaa-07&theme=radical&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📈 ACTIVITY GRAPH
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jenivaa-07&bg_color=000000&color=ffffff&line=ff1744&point=ff2d75&area=true&hide_border=true" alt="GitHub Activity Graph" />
@@ -147,14 +140,11 @@ PADDOX is a premium motorsport fan platform that brings together race updates, d
   <img src="assets/f1-race-streak-footer.svg" width="100%" alt="Race Streak Footer" />
 </p>
 
----
-
-## How to Use This Profile README
-
-1. Create a public GitHub repository named exactly **`Jenivaa-07`**
-2. Add this `README.md` file
-3. Create an `assets` folder
-4. Place your existing banner GIF at `assets/f1-race-streak-banner.gif`
-5. Add the generated SVG assets (`divider-race-line.svg`, `paddox-card.svg`, `f1-race-streak-footer.svg`) into the `assets` folder
-6. Commit and push the changes
-7. GitHub will automatically display this README on your profile page
+<!-- 
+How to Use This Profile README:
+1. Create a public GitHub repository named exactly "Jenivaa-07"
+2. Add this README.md file
+3. Place your existing banner GIF at assets/f1-race-streak-banner.gif
+4. Place the generated SVG assets (divider-race-line.svg, paddox-card.svg, insightai-card.svg, comingsoon-card.svg, f1-race-streak-footer.svg) inside the assets folder
+5. Commit and push the changes
+-->
