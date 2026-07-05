@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 80" width="100%" height="80">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="dividerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff1744" stop-opacity="0" />
+      <stop offset="20%" stop-color="#ff1744" stop-opacity="0.3" />
+      <stop offset="40%" stop-color="#ff1744" stop-opacity="1" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="1" />
+      <stop offset="60%" stop-color="#ff2d75" stop-opacity="1" />
+      <stop offset="80%" stop-color="#ff2d75" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#ff2d75" stop-opacity="0" />
+    </linearGradient>
+    
+    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="10%" stop-color="#ff1744" stop-opacity="0" />
+      <stop offset="40%" stop-color="#ff1744" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.6" />
+      <stop offset="60%" stop-color="#ff2d75" stop-opacity="0.4" />
+      <stop offset="90%" stop-color="#ff2d75" stop-opacity="0" />
+    </linearGradient>
+
+    <linearGradient id="dotGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0" />
+      <stop offset="30%" stop-color="#ffffff" stop-opacity="0.15" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.3" />
+      <stop offset="70%" stop-color="#ffffff" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Base line glow layer 1 -->
+  <line x1="100" y1="40" x2="1500" y2="40" stroke="url(#glowGrad)" stroke-width="12" opacity="0.15" stroke-linecap="round" />
+  
+  <!-- Base line glow layer 2 -->
+  <line x1="150" y1="40" x2="1450" y2="40" stroke="url(#glowGrad)" stroke-width="6" opacity="0.3" stroke-linecap="round" />
+
+  <!-- Core glowing line -->
+  <line x1="200" y1="40" x2="1400" y2="40" stroke="url(#dividerGrad)" stroke-width="2" stroke-linecap="round" />
+  
+  <!-- High speed white streak in the absolute center -->
+  <line x1="720" y1="40" x2="880" y2="40" stroke="#ffffff" stroke-width="3" stroke-linecap="round" />
+
+  <!-- Parallel tech dotted lines -->
+  <line x1="300" y1="28" x2="1300" y2="28" stroke="url(#dotGrad)" stroke-width="1" stroke-dasharray="4 8" />
+  <line x1="300" y1="52" x2="1300" y2="52" stroke="url(#dotGrad)" stroke-width="1" stroke-dasharray="4 8" />
+
+  <!-- Chevrons pointing to center (Left side) -->
+  <g stroke="#ff1744" stroke-width="1.5" fill="none" opacity="0.7">
+    <polyline points="450,35 455,40 450,45" />
+    <polyline points="460,35 465,40 460,45" />
+    <polyline points="470,35 475,40 470,45" />
+  </g>
+
+  <!-- Chevrons pointing to center (Right side) -->
+  <g stroke="#ff2d75" stroke-width="1.5" fill="none" opacity="0.7">
+    <polyline points="1150,35 1145,40 1150,45" />
+    <polyline points="1140,35 1135,40 1140,45" />
+    <polyline points="1130,35 1125,40 1130,45" />
+  </g>
+
+  <!-- Technical tick marks -->
+  <!-- Left tick -->
+  <g stroke="#ffffff" stroke-width="1" opacity="0.3">
+    <line x1="200" y1="30" x2="200" y2="50" />
+    <line x1="195" y1="40" x2="205" y2="40" />
+  </g>
+  <!-- Right tick -->
+  <g stroke="#ffffff" stroke-width="1" opacity="0.3">
+    <line x1="1400" y1="30" x2="1400" y2="50" />
+    <line x1="1395" y1="40" x2="1405" y2="40" />
+  </g>
+</svg>

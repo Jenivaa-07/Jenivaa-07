@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 260" width="100%" height="260">
+  <defs>
+    <!-- Dark Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#050508" stop-opacity="0" />
+      <stop offset="100%" stop-color="#0a0a0f" stop-opacity="1" />
+    </linearGradient>
+
+    <!-- Streaks Gradients -->
+    <!-- Red Streak Gradient -->
+    <linearGradient id="redStreak" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff1744" stop-opacity="0" />
+      <stop offset="30%" stop-color="#ff1744" stop-opacity="0.2" />
+      <stop offset="50%" stop-color="#ff1744" stop-opacity="0.9" />
+      <stop offset="70%" stop-color="#ff1744" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#ff1744" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Magenta Streak Gradient -->
+    <linearGradient id="magentaStreak" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="10%" stop-color="#ff2d75" stop-opacity="0" />
+      <stop offset="40%" stop-color="#ff2d75" stop-opacity="0.3" />
+      <stop offset="60%" stop-color="#ff2d75" stop-opacity="1" />
+      <stop offset="80%" stop-color="#ff2d75" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#ff2d75" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- White Streak Gradient -->
+    <linearGradient id="whiteStreak" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="25%" stop-color="#ffffff" stop-opacity="0" />
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="0.1" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="1" />
+      <stop offset="55%" stop-color="#ffffff" stop-opacity="0.1" />
+      <stop offset="75%" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Pink Streak Gradient -->
+    <linearGradient id="pinkStreak" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="5%" stop-color="#ff85a7" stop-opacity="0" />
+      <stop offset="35%" stop-color="#ff85a7" stop-opacity="0.5" />
+      <stop offset="55%" stop-color="#ff85a7" stop-opacity="0.8" />
+      <stop offset="75%" stop-color="#ff85a7" stop-opacity="0.2" />
+      <stop offset="95%" stop-color="#ff85a7" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Glowing effect filters -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background Rect -->
+  <rect width="1600" height="260" fill="url(#bgGrad)" />
+
+  <!-- Diagonal background grids (faint) -->
+  <g stroke="#ffffff" stroke-width="0.25" opacity="0.05">
+    <line x1="0" y1="260" x2="260" y2="0" />
+    <line x1="200" y1="260" x2="460" y2="0" />
+    <line x1="400" y1="260" x2="660" y2="0" />
+    <line x1="600" y1="260" x2="860" y2="0" />
+    <line x1="800" y1="260" x2="1060" y2="0" />
+    <line x1="1000" y1="260" x2="1260" y2="0" />
+    <line x1="1200" y1="260" x2="1460" y2="0" />
+    <line x1="1400" y1="260" x2="1660" y2="0" />
+  </g>
+
+  <!-- Glowing background blobs -->
+  <circle cx="800" cy="180" r="150" fill="#ff1744" opacity="0.08" filter="url(#glow)" />
+  <circle cx="950" cy="150" r="120" fill="#ff2d75" opacity="0.05" filter="url(#glow)" />
+
+  <!-- The Racing Streaks -->
+  <!-- Thick ambient glow path 1 (Red) -->
+  <path d="M -50 180 C 400 180, 600 80, 1000 130 C 1300 160, 1450 200, 1650 200" fill="none" stroke="url(#redStreak)" stroke-width="25" opacity="0.15" />
+  <!-- Thick ambient glow path 2 (Magenta) -->
+  <path d="M -50 210 C 300 210, 700 110, 1100 110 C 1350 110, 1500 160, 1650 160" fill="none" stroke="url(#magentaStreak)" stroke-width="20" opacity="0.15" />
+
+  <!-- Core Streaks (Red) -->
+  <path d="M -50 180 C 400 180, 600 80, 1000 130 C 1300 160, 1450 200, 1650 200" fill="none" stroke="url(#redStreak)" stroke-width="6" stroke-linecap="round" />
+  <path d="M -50 195 C 420 195, 580 95, 980 135 C 1280 165, 1460 190, 1650 190" fill="none" stroke="url(#redStreak)" stroke-width="2" stroke-linecap="round" />
+
+  <!-- Core Streaks (Magenta) -->
+  <path d="M -50 210 C 300 210, 700 110, 1100 110 C 1350 110, 1500 160, 1650 160" fill="none" stroke="url(#magentaStreak)" stroke-width="5" stroke-linecap="round" />
+  <path d="M -50 205 C 320 205, 680 120, 1080 120 C 1330 120, 1490 170, 1650 170" fill="none" stroke="url(#magentaStreak)" stroke-width="1.5" stroke-linecap="round" />
+
+  <!-- Pink Highlights -->
+  <path d="M -50 160 C 350 160, 650 70, 1050 140 C 1310 180, 1480 150, 1650 150" fill="none" stroke="url(#pinkStreak)" stroke-width="3" stroke-linecap="round" />
+
+  <!-- White Core Speed Trails (Very sharp) -->
+  <path d="M -50 180 C 400 180, 600 80, 1000 130 C 1300 160, 1450 200, 1650 200" fill="none" stroke="url(#whiteStreak)" stroke-width="2" stroke-linecap="round" />
+  <path d="M -50 210 C 300 210, 700 110, 1100 110 C 1350 110, 1500 160, 1650 160" fill="none" stroke="url(#whiteStreak)" stroke-width="1.5" stroke-linecap="round" />
+
+  <!-- Secondary lower trails -->
+  <path d="M 200 240 C 500 240, 700 160, 1100 220" fill="none" stroke="url(#redStreak)" stroke-width="2" opacity="0.3" stroke-linecap="round" />
+  <path d="M 150 245 C 480 245, 720 165, 1080 222" fill="none" stroke="url(#whiteStreak)" stroke-width="0.8" opacity="0.2" stroke-linecap="round" />
+
+  <!-- High-tech crosshairs/telemetry markers near the bottom -->
+  <g stroke="#ffffff" stroke-width="0.5" opacity="0.2">
+    <!-- Left marker -->
+    <line x1="100" y1="220" x2="120" y2="220" />
+    <line x1="110" y1="210" x2="110" y2="230" />
+    <!-- Right marker -->
+    <line x1="1480" y1="80" x2="1500" y2="80" />
+    <line x1="1490" y1="70" x2="1490" y2="90" />
+  </g>
+
+  <!-- Tiny dots scattered near trails -->
+  <g fill="#ff1744" opacity="0.6">
+    <circle cx="450" cy="140" r="2" />
+    <circle cx="720" cy="115" r="1.5" />
+    <circle cx="890" cy="110" r="2" />
+    <circle cx="1150" cy="145" r="1.5" />
+  </g>
+  <g fill="#ff2d75" opacity="0.6">
+    <circle cx="510" cy="155" r="1.5" />
+    <circle cx="680" cy="105" r="2" />
+    <circle cx="950" cy="125" r="1.5" />
+    <circle cx="1220" cy="165" r="2" />
+  </g>
+  <g fill="#ffffff" opacity="0.8">
+    <circle cx="610" cy="120" r="1" />
+    <circle cx="830" cy="115" r="1.2" />
+    <circle cx="1020" cy="135" r="1" />
+  </g>
+</svg>
