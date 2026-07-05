@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=700&color=FF1744&center=true&vCenter=true&width=1100&lines=Building+AI-powered+digital+experiences;Creating+PADDOX+%E2%80%94+Motorsport+Fan+Engagement+Platform;Full+Stack+%2B+AI%2FML+%2B+Data+Analytics;Driven+by+Speed%2C+Design%2C+and+Technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=700&color=FF1744&center=true&vCenter=true&width=1200&lines=Building+AI-powered+digital+experiences;Creating+PADDOX+%E2%80%94+Motorsport+Fan+Engagement+Platform;Full+Stack+%2B+AI%2FML+%2B+Data+Analytics;Driven+by+Speed%2C+Design%2C+and+Technology" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -31,10 +31,10 @@
 ## > paddock://whoami
 
 ```text
-[ROLE]      CSE Artificial Intelligence Student
-[FOCUS]     Full Stack • AI/ML • Data Analytics • UI/UX
-[BUILDING]  PADDOX — Motorsport Fan Engagement Platform
-[MISSION]   Creating real-world digital products with speed, design, and intelligence
+ROLE      CSE Artificial Intelligence Student
+FOCUS     Full Stack • AI/ML • Data Analytics • UI/UX
+BUILDING  PADDOX — Motorsport Fan Platform
+MISSION   Building real-world digital products with speed and intelligence
 ```
 
 ---
@@ -77,7 +77,7 @@
 
 ### PADDOX — AI-Based Personalized Recommendation and Predictive Analytics System for Digital Fan Engagement
 
-PADDOX is a premium motorsport fan platform that combines race updates, fan engagement, ecommerce, digital assets, admin controls, and AI-powered personalization into one interactive ecosystem.
+PADDOX is a premium motorsport fan platform combining race updates, ecommerce, interactive fan hubs, and AI-powered personalization into a unified ecosystem.
 
 | Module | Features |
 | :--- | :--- |
