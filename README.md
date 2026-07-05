@@ -2,64 +2,89 @@
   <img src="assets/f1-race-streak-banner.gif" width="100%" height="360" alt="Futuristic Motorsport Race Streak Banner" />
 </p>
 
-<h1 align="center">Hi, I'm Jenivaa M 👋</h1>
-<p align="center"><strong>AI Student • Full Stack Developer • Motorsport Tech Builder</strong></p>
+<h1 align="center">Jenivaa M</h1>
+<h3 align="center">AI Student • Full Stack Developer • Data Analytics Learner • Motorsport Tech Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=700&color=FF1744&center=true&vCenter=true&width=1000&lines=Building+AI-powered+digital+experiences;Creating+PADDOX+%E2%80%94+Motorsport+Fan+Engagement+Platform;Full+Stack+%2B+AI%2FML+%2B+Data+Analytics;Driven+by+Speed%2C+Design%2C+and+Technology" alt="Typing SVG" />
 </p>
 
+<!-- Replace email and LinkedIn placeholders with real links in the hero badges below -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jenivaa-07&label=Profile%20Views&color=ff1744&style=for-the-badge" alt="Profile Views" />
+  <a href="#-garageprojects">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-ff1744?style=for-the-badge&logo=opsgenie&logoColor=white" alt="Portfolio Badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Jenivaa-07/paddox-frontend">
+    <img src="https://img.shields.io/badge/PADDOX%20Frontend-View%20Repo-ff2d75?style=for-the-badge&logo=github&logoColor=white" alt="PADDOX Frontend Badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Jenivaa-07/paddox-backend">
+    <img src="https://img.shields.io/badge/PADDOX%20Backend-View%20Repo-111111?style=for-the-badge&logo=github&logoColor=white" alt="PADDOX Backend Badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:yourmail@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
 </p>
 
 <p align="center">
   <img src="assets/divider-race-line.svg" width="100%" alt="Race Line Divider" />
 </p>
 
-## 🏁 ABOUT ME
+## > paddock://whoami
 
-* 🎓 CSE Artificial Intelligence student focused on real-world technology projects.
-* 💻 Interested in full-stack development, AI/ML, data analytics, and premium UI/UX.
-* 🏎️ Currently building **PADDOX**, a motorsport-inspired fan engagement platform with AI-powered personalization.
+`[SYS_INFO]` CSE Artificial Intelligence student focused on building real-world technology projects.  
+`[SYS_INFO]` I work with full-stack development, AI/ML, data analytics, and premium UI/UX.  
+`[SYS_INFO]` Currently building **PADDOX**, a motorsport-inspired digital fan engagement platform with AI-powered personalization and predictive analytics.
 
 ---
 
-## 🧭 CURRENT FOCUS
+## > telemetry/focus.yml
 
-| Track | What I'm Building |
+| Track | Current Build Mode |
 | :--- | :--- |
 | **AI/ML** | Recommendation systems, prediction models, and analytics |
-| **Full Stack** | Real-world web apps with frontend, backend, database, and APIs |
-| **Data Analytics** | Dashboards, insights, CSV/Excel analysis, and visual reports |
-| **Motorsport Tech** | PADDOX and racing-inspired digital systems |
-| **UI/UX** | Premium dark interfaces, animations, and interactive experiences |
+| **Full Stack** | Frontend, backend, database, authentication, and APIs |
+| **Data Analytics** | Dashboards, CSV/Excel insights, and visual reports |
+| **Motorsport Tech** | PADDOX, race data, fan engagement, and circuit systems |
+| **UI/UX** | Premium dark interfaces, animations, and interactive layouts |
+| **Final Year Project** | AI-based personalized recommendation and predictive analytics system |
 
 <p align="center">
   <img src="assets/divider-race-line.svg" width="100%" alt="Race Line Divider" />
 </p>
 
-## 🛠️ TECH STACK
+## > garage/projects
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,python,java,c,git,github,vscode,figma" alt="My Tech Stack" />
+  <img src="assets/paddox-card.svg" width="32%" alt="PADDOX Card" />
+  <img src="assets/insightai-card.svg" width="32%" alt="InsightAI Card" />
+  <img src="assets/nextbuild-card.svg" width="32%" alt="Next Build Card" />
 </p>
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **PADDOX Frontend** | Premium motorsport fan platform frontend | HTML, CSS, JavaScript |
+| **PADDOX Backend** | Backend API for auth, products, orders, admin, and digital assets | Node.js, Express, MongoDB |
+| **InsightAI Analytics Dashboard** | AI-powered data analytics dashboard | Python, AI/ML |
+| **Final Year AI System** | Recommendation and predictive analytics project | AI, ML, Data |
 
 ---
 
-## ⚡ FEATURED PROJECT
+## > featured/paddox
 
 ### PADDOX — AI-Based Personalized Recommendation and Predictive Analytics System for Digital Fan Engagement
 
-PADDOX is a premium motorsport fan platform that brings together race updates, driver statistics, fan engagement, ecommerce, digital assets, admin controls, and AI-based personalization into one interactive ecosystem.
-
-<p align="center">
-  <img src="assets/paddox-card.svg" width="95%" alt="PADDOX Project Card" />
-</p>
+PADDOX is a premium motorsport fan platform that combines race updates, fan engagement, ecommerce, digital assets, admin controls, and AI-powered personalization into one interactive ecosystem.
 
 | Module | Features |
 | :--- | :--- |
-| **Race Intelligence** | Calendar, circuit info, live motorsport APIs |
+| **Race Intelligence** | Calendar, circuit information, race data APIs |
 | **Fan Hub** | Polls, quotes, leaderboard, trivia, wallpapers |
 | **Shop** | Cart, wishlist, coupons, checkout, receipts |
 | **Admin** | Products, orders, users, coupons, polls, wallpapers |
@@ -80,24 +105,25 @@ PADDOX is a premium motorsport fan platform that brings together race updates, d
   <img src="assets/divider-race-line.svg" width="100%" alt="Race Line Divider" />
 </p>
 
-## 📁 PROJECTS
+## > stack/garage.yml
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Frontend** | HTML, CSS, JavaScript, React, Next.js |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB |
+| **AI/ML** | Python, Machine Learning, Data Analytics |
+| **Tools** | Git, GitHub, VS Code, Figma |
+
+<br />
 
 <p align="center">
-  <img src="assets/paddox-card.svg" width="32%" alt="PADDOX Card" />
-  <img src="assets/insightai-card.svg" width="32%" alt="InsightAI Card" />
-  <img src="assets/comingsoon-card.svg" width="32%" alt="Next Build Card" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,python,java,c,git,github,vscode,figma" alt="My Tech Stack" />
 </p>
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **PADDOX Frontend** | Premium motorsport fan platform frontend | HTML, CSS, JavaScript |
-| **PADDOX Backend** | Backend API for authentication, products, orders, users, admin, and digital assets | Node.js, Express, MongoDB |
-| **InsightAI Analytics Dashboard** | AI-powered CSV and Excel analytics dashboard | Python, AI/ML |
-| **Final Year AI System** | Recommendation and predictive analytics project | AI, ML, Data |
 
 ---
 
-## 📊 GITHUB PERFORMANCE
+## > race-log/github
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jenivaa-07&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=ff1744&icon_color=ff1744&text_color=ffffff" height="165" alt="GitHub Stats" />
@@ -113,9 +139,9 @@ PADDOX is a premium motorsport fan platform that brings together race updates, d
   <img src="assets/divider-race-line.svg" width="100%" alt="Race Line Divider" />
 </p>
 
-## 🤝 CONNECT WITH ME
+## > pit-wall/connect
 
-<!-- Replace yourmail@example.com and your-linkedin with your real contact details -->
+<!-- Replace email and LinkedIn placeholders with real links in the connection badges below -->
 <p align="center">
   <a href="https://github.com/Jenivaa-07">
     <img src="https://img.shields.io/badge/GitHub-Jenivaa--07-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -133,7 +159,7 @@ PADDOX is a premium motorsport fan platform that brings together race updates, d
 ---
 
 <p align="center">
-  <strong>Built with speed, precision, AI, and motorsport energy 🏎️</strong>
+  <b>Built with speed, precision, AI, and motorsport energy 🏎️</b>
 </p>
 
 <p align="center">
@@ -141,10 +167,10 @@ PADDOX is a premium motorsport fan platform that brings together race updates, d
 </p>
 
 <!-- 
-How to Use This Profile README:
+Setup Instructions (Hidden in HTML Comments):
 1. Create a public GitHub repository named exactly "Jenivaa-07"
 2. Add this README.md file
 3. Place your existing banner GIF at assets/f1-race-streak-banner.gif
-4. Place the generated SVG assets (divider-race-line.svg, paddox-card.svg, insightai-card.svg, comingsoon-card.svg, f1-race-streak-footer.svg) inside the assets folder
+4. Place the generated SVG assets (divider-race-line.svg, paddox-card.svg, insightai-card.svg, nextbuild-card.svg, f1-race-streak-footer.svg) inside the assets folder
 5. Commit and push the changes
 -->

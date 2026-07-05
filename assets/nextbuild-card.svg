@@ -121,7 +121,7 @@
   <rect x="420" y="170" width="80" height="3" fill="#ffffff" />
   
   <!-- Subtitle -->
-  <text x="40" y="208" class="subtitle">FINAL YEAR AI PROJECT</text>
+  <text x="40" y="208" class="subtitle">FINAL YEAR AI SYSTEM</text>
   
   <!-- Description list -->
   <text x="40" y="248" class="feature-text">AI Recommendation Engine Architecture</text>
