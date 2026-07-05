@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/f1-race-streak-banner.gif" width="100%" alt="Futuristic Motorsport Race Streak Banner" />
+  <img src="assets/f1-race-streak-banner.gif" width="100%" height="360" alt="Futuristic Motorsport Race Streak Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Jenivaa M 👋</h1>
 <p align="center"><strong>AI Student • Full Stack Developer • Motorsport Tech Builder</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=700&color=FF1744&center=true&vCenter=true&width=900&lines=Building+AI-powered+digital+experiences;Creating+PADDOX+%E2%80%94+Motorsport+Fan+Engagement+Platform;Full+Stack+%2B+AI%2FML+%2B+Data+Analytics;Driven+by+Speed%2C+Design%2C+and+Technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=700&color=FF1744&center=true&vCenter=true&width=1000&lines=Building+AI-powered+digital+experiences;Creating+PADDOX+%E2%80%94+Motorsport+Fan+Engagement+Platform;Full+Stack+%2B+AI%2FML+%2B+Data+Analytics;Driven+by+Speed%2C+Design%2C+and+Technology" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@
 
 ## 🏁 ABOUT ME
 
-* 🎓 CSE Artificial Intelligence student passionate about real-world tech projects
-* 💻 Interested in full-stack development, AI/ML, data analytics, and premium UI/UX
-* 🏎️ Currently building **PADDOX**, a motorsport-inspired fan engagement platform with AI-powered personalization
+* 🎓 CSE Artificial Intelligence student focused on real-world technology projects.
+* 💻 Interested in full-stack development, AI/ML, data analytics, and premium UI/UX.
+* 🏎️ Currently building **PADDOX**, a motorsport-inspired fan engagement platform with AI-powered personalization.
 
 ---
 
@@ -54,7 +54,7 @@
 PADDOX is a premium motorsport fan platform that brings together race updates, driver statistics, fan engagement, ecommerce, digital assets, admin controls, and AI-based personalization into one interactive ecosystem.
 
 <p align="center">
-  <img src="assets/paddox-card.svg" width="85%" alt="PADDOX Project Card" />
+  <img src="assets/paddox-card.svg" width="95%" alt="PADDOX Project Card" />
 </p>
 
 | Module | Features |
@@ -93,7 +93,7 @@ PADDOX is a premium motorsport fan platform that brings together race updates, d
 | **PADDOX Frontend** | Premium motorsport fan platform frontend | HTML, CSS, JavaScript |
 | **PADDOX Backend** | Backend API for authentication, products, orders, users, admin, and digital assets | Node.js, Express, MongoDB |
 | **InsightAI Analytics Dashboard** | AI-powered CSV and Excel analytics dashboard | Python, AI/ML |
-| **More Projects Coming Soon** | Portfolio and final-year project updates | AI, Web, Data |
+| **Final Year AI System** | Recommendation and predictive analytics project | AI, ML, Data |
 
 ---
 
@@ -106,7 +106,7 @@ PADDOX is a premium motorsport fan platform that brings together race updates, d
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jenivaa-07&bg_color=000000&color=ffffff&line=ff1744&point=ff2d75&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jenivaa-07&bg_color=000000&color=ffffff&line=ff1744&point=ff2d75&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
@@ -133,7 +133,7 @@ PADDOX is a premium motorsport fan platform that brings together race updates, d
 ---
 
 <p align="center">
-  <em>Built with speed, precision, AI, and motorsport energy 🏎️</em>
+  <strong>Built with speed, precision, AI, and motorsport energy 🏎️</strong>
 </p>
 
 <p align="center">

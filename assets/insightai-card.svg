@@ -6,33 +6,33 @@
       .title {
         font-family: 'Orbitron', sans-serif;
         font-weight: 900;
-        font-size: 56px;
+        font-size: 64px;
         fill: #ffffff;
         letter-spacing: 4px;
       }
       .subtitle {
         font-family: 'Orbitron', sans-serif;
         font-weight: 700;
-        font-size: 18px;
+        font-size: 20px;
         fill: #ff2d75;
         letter-spacing: 2px;
       }
       .mono-text {
         font-family: 'Share Tech Mono', monospace;
-        font-size: 14px;
+        font-size: 15px;
         fill: #8a8d9a;
         letter-spacing: 1px;
       }
       .tag {
         font-family: 'Inter', sans-serif;
         font-weight: 700;
-        font-size: 13px;
+        font-size: 14px;
         fill: #ffffff;
       }
       .feature-text {
         font-family: 'Inter', sans-serif;
         font-weight: 600;
-        font-size: 15px;
+        font-size: 17px;
         fill: #ffffff;
       }
     </style>
@@ -104,12 +104,12 @@
   <rect x="420" y="170" width="80" height="3" fill="#ffffff" />
   
   <!-- Subtitle -->
-  <text x="40" y="205" class="subtitle">AI DATA ANALYTICS DASHBOARD</text>
+  <text x="40" y="208" class="subtitle">AI DATA ANALYTICS DASHBOARD</text>
   
   <!-- Description list -->
-  <text x="40" y="245" class="feature-text">Automated CSV &amp; Excel Analytics</text>
-  <text x="40" y="275" class="feature-text">AI-Powered Predictive Insights</text>
-  <text x="40" y="305" class="feature-text">Interactive Visual Telemetry Reports</text>
+  <text x="40" y="248" class="feature-text">Automated CSV &amp; Excel Analytics</text>
+  <text x="40" y="285" class="feature-text">AI-Powered Predictive Insights</text>
+  <text x="40" y="322" class="feature-text">Interactive Visual Telemetry Reports</text>
 
   <!-- Bottom Details / Tags -->
   <g transform="translate(40, 390)">
