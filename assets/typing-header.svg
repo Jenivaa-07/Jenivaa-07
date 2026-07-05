@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="100%">
+  <defs>
+    <!-- Font styling -->
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700;900&amp;family=Share+Tech+Mono&amp;family=Inter:wght@400;700&amp;display=swap');
+      
+      .title {
+        font-family: 'Orbitron', system-ui, -apple-system, sans-serif;
+        font-weight: 900;
+        font-size: 52px;
+        fill: #ffffff;
+        text-anchor: middle;
+        letter-spacing: 2px;
+      }
+      
+      .subtitle {
+        font-family: 'Inter', system-ui, -apple-system, sans-serif;
+        font-weight: 700;
+        font-size: 22px;
+        fill: #ff2d75;
+        text-anchor: middle;
+        letter-spacing: 1px;
+      }
+
+      .typewriter-container {
+        mask: url(#typeMask);
+      }
+      
+      .typewriter {
+        font-family: 'Share Tech Mono', 'Courier New', Courier, monospace;
+        font-size: 26px;
+        fill: #ff1744;
+        text-anchor: middle;
+        letter-spacing: 1px;
+        opacity: 0;
+        animation: cycleText 16s infinite;
+      }
+
+      .line1 { animation-delay: 0s; }
+      .line2 { animation-delay: 4s; }
+      .line3 { animation-delay: 8s; }
+      .line4 { animation-delay: 12s; }
+
+      @keyframes cycleText {
+        0% { opacity: 0; }
+        2% { opacity: 1; }
+        23% { opacity: 1; }
+        25% { opacity: 0; }
+        100% { opacity: 0; }
+      }
+
+      @keyframes typeReveal {
+        0% { width: 0; }
+        55% { width: 1280px; }
+        90% { width: 1280px; }
+        95% { width: 0; }
+        100% { width: 0; }
+      }
+
+      #maskRect {
+        animation: typeReveal 4s infinite;
+      }
+    </style>
+    
+    <linearGradient id="bottomGlow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0" />
+      <stop offset="40%" stop-color="#050508" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#0a0a0f" stop-opacity="0.95" />
+    </linearGradient>
+
+    <mask id="typeMask">
+      <rect x="0" y="0" width="1280" height="720" fill="#000" />
+      <rect x="0" y="600" width="0" height="100" fill="#fff" id="maskRect" />
+    </mask>
+  </defs>
+
+  <!-- Background GIF -->
+  <image href="f1-race-streak-banner.gif" x="0" y="0" width="1280" height="720" />
+
+  <!-- Bottom Dark Overlay for readability -->
+  <rect x="0" y="380" width="1280" height="340" fill="url(#bottomGlow)" />
+
+  <!-- Content Group -->
+  <!-- Centered title -->
+  <text x="640" y="520" class="title">Hi, I'm Jenivaa M 👋</text>
+  
+  <!-- Centered subtitle -->
+  <text x="640" y="570" class="subtitle">AI Student • Full Stack Developer • Motorsport Tech Builder</text>
+
+  <!-- Animated Typing Text lines -->
+  <g class="typewriter-container">
+    <text x="640" y="635" class="typewriter line1">Building AI-powered digital experiences</text>
+    <text x="640" y="635" class="typewriter line2">Creating PADDOX — Motorsport Fan Engagement Platform</text>
+    <text x="640" y="635" class="typewriter line3">Full Stack + AI/ML + Data Analytics</text>
+    <text x="640" y="635" class="typewriter line4">Driven by Speed, Design, and Technology</text>
+  </g>
+</svg>

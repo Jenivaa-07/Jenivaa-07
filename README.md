@@ -1,12 +1,5 @@
 <p align="center">
-  <img src="assets/f1-race-streak-banner.gif" width="100%" alt="Futuristic Motorsport Race Streak Banner" />
-</p>
-
-<h1 align="center">Hi, I'm Jenivaa M 👋</h1>
-<p align="center"><strong>AI Student • Full Stack Developer • Motorsport Tech Builder</strong></p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=700&color=FF1744&center=true&vCenter=true&width=900&lines=Building+AI-powered+digital+experiences;Creating+PADDOX+%E2%80%94+Motorsport+Fan+Engagement+Platform;Full+Stack+%2B+AI%2FML+%2B+Data+Analytics;Driven+by+Speed%2C+Design%2C+and+Technology" alt="Typing SVG" />
+  <img src="assets/typing-header.svg" width="100%" alt="Hi, I'm Jenivaa M | Motorsport Tech Profile Header" />
 </p>
 
 <p align="center">
