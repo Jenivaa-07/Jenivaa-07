@@ -34,7 +34,7 @@
 ROLE      CSE Artificial Intelligence Student
 FOCUS     Full Stack • AI/ML • Data Analytics • UI/UX
 BUILDING  PADDOX — Motorsport Fan Platform
-MISSION   Building real-world digital products with speed and intelligence
+MISSION   Building real-world products with speed and intelligence
 ```
 
 ---
@@ -76,6 +76,8 @@ MISSION   Building real-world digital products with speed and intelligence
 ## > featured/paddox
 
 ### PADDOX — AI-Based Personalized Recommendation and Predictive Analytics System for Digital Fan Engagement
+
+**PADDOX is my main motorsport-tech platform and final-year project foundation.**
 
 PADDOX is a premium motorsport fan platform combining race updates, ecommerce, interactive fan hubs, and AI-powered personalization into a unified ecosystem.
 
@@ -121,11 +123,6 @@ PADDOX is a premium motorsport fan platform combining race updates, ecommerce, i
 ---
 
 ## > race-log/github
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jenivaa-07&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=ff1744&icon_color=ff1744&text_color=ffffff" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenivaa-07&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=ff1744&text_color=ffffff" height="165" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Jenivaa-07&theme=dark&hide_border=true&background=000000&ring=ff1744&fire=ff1744&currStreakLabel=ff1744&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=8b949e" width="95%" alt="GitHub Streak" />
